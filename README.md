@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu-augusty&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu-augusty" /> </p>
 
-<p align="left"> <a href="https://twitter.com/devanshu_augus7" target="blank"><img src="https://img.shields.io/twitter/follow/devanshu_augus7?logo=twitter&style=for-the-badge" alt="devanshu_augus7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DAugus7/" target="blank"><img src="https://img.shields.io/twitter/follow/devanshu_augus7?logo=twitter&style=for-the-badge" alt="devanshu_augus7" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms in c++**
 
